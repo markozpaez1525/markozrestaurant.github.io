@@ -576,11 +576,13 @@ ol#menuToday {
     background: rgba(89, 50, 8, 0.5);
     color: #fff;
     width: 100%;
-    padding: 128px;
+    padding: 193px;
 }
 
 .about-us-video-content h1 {
 	white-space: nowrap;
+	bottom: 80px;
+	position: relative;
 }
 
 #aboutUsContent {
