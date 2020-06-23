@@ -510,7 +510,7 @@ ol#menuToday {
 	color: #ffffff;
 	position: fixed;
 	bottom: 45px;
-    right: 0px; 
+    right: 15px; 
 	cursor: pointer; 
 	background: #c88937;
 	border-radius: 100% !important;
