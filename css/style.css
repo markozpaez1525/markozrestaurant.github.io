@@ -303,6 +303,10 @@ h6,
 	margin-top: 120px
 }
 
+.mt-130 {
+	margin-top: 130px
+}
+
 .mt-150 {
 	margin-top: 150px
 }
@@ -887,6 +891,15 @@ input:invalid {
 		margin-top: -40px;
 	}
 	/* Start About Us */
+	
+	.contact-mail-symbol {
+		left: 100px;
+	}
+	
+	ol#menuToday {
+		font-size: 16px;
+		padding-left: 20px;
+	}
 	
 	.footer-social-media {
 		float: left !important;
