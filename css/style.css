@@ -890,6 +890,10 @@ input:invalid {
 	#aboutUsContent {
 		margin-top: -40px;
 	}
+	
+	.about-us-video-content {
+		padding: 190px 105px;
+	}
 	/* Start About Us */
 	
 	.contact-mail-symbol {
