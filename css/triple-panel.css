@@ -12,6 +12,12 @@
 	overflow: hidden;
 }
 
+@media screen and (max-width: 600px) { 
+	.fs-container {
+		margin: 20px auto 50px -7px;
+	}
+}
+
 .fs-container:before {
 	content: '';
 	position: absolute;
