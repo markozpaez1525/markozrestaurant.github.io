@@ -665,7 +665,7 @@ ol#menuToday {
 	background: #fff;
 	color: #000;
 	border-radius: 5px;
-	border: 1px solid #000;
+	border: 1px solid #c88937;
 }
 
 input:invalid {
@@ -871,6 +871,7 @@ input:invalid {
 	
 	.header-content {
 		position: relative !important;
+		top: 0;
 	}
 	
 	.why-markoz {
